@@ -1,0 +1,7 @@
+2024/05/20 14:49:11 [1;34m[I] [root.go:105] frps uses config file: toml/k8s_api-server-7006.toml[0m
+2024/05/20 14:49:11 [1;34m[I] [service.go:225] frps tcp listen on 0.0.0.0:7006[0m
+2024/05/20 14:49:11 [1;34m[I] [service.go:292] http service listen on 0.0.0.0:6443[0m
+2024/05/20 14:49:11 [1;34m[I] [root.go:114] frps started successfully[0m
+2024/05/20 14:53:01 [1;34m[I] [service.go:563] [e4efddf0f595de54] client login info: ip [113.118.195.98:43282] version [0.52.3] hostname [] os [linux] arch [amd64][0m
+2024/05/20 14:53:01 [1;34m[I] [http.go:110] [e4efddf0f595de54] [k8s_api] http proxy listen for host [melina] location [] group [], routeByHTTPUser [][0m
+2024/05/20 14:53:01 [1;34m[I] [control.go:401] [e4efddf0f595de54] new proxy [k8s_api] type [http] success[0m

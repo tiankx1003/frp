@@ -144,3 +144,4 @@ nohup: ignoring input
 2024/05/20 13:04:57 [1;33m[W] [http.go:119] do http proxy request [host: ] error: http: no Host in request URL[0m
 2024/05/20 13:21:15 [1;33m[W] [http.go:119] do http proxy request [host: www.blackle.com] error: proxyconnect tcp: no route found: www.blackle.com / [0m
 2024/05/20 14:05:38 [1;33m[W] [http.go:119] do http proxy request [host: www.blackle.com] error: proxyconnect tcp: no route found: www.blackle.com / [0m
+2024/05/20 14:50:18 [1;33m[W] [http.go:119] do http proxy request [host: www.ip33.com] error: proxyconnect tcp: no route found: www.ip33.com / [0m
