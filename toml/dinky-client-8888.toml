@@ -1,0 +1,7 @@
+[[proxies]]
+name = "dinky"
+type = "http"
+localPort = 8888
+customDomains = ["melina"]
+serverAddr = "melina"
+serverPort = 7005
