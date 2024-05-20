@@ -21,13 +21,14 @@ print_help() {
 # Function to generate the client TOML file
 generate_client_toml() {
     cat > "toml/$name-client-$localPort.toml" << EOF
+serverAddr = "melina"
+serverPort = $serverPort
+
 [[proxies]]
 name = "$name"
 type = "http"
 localPort = $localPort
 customDomains = ["melina"]
-serverAddr = "melina"
-serverPort = $serverPort
 EOF
 }
 

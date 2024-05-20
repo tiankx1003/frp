@@ -1,0 +1,8 @@
+open bin/k8s_api-client-6443.toml: no such file or directory
+2024/05/20 14:50:11 [1;34m[I] [root.go:139] start frpc service for config file [toml/k8s_api-client-6443.toml][0m
+2024/05/20 14:50:11 [1;33m[W] [service.go:131] login to server failed: dial tcp 0.0.0.0:7000: connect: connection refused[0m
+2024/05/20 14:50:11 [1;34m[I] [root.go:154] frpc service for config file [toml/k8s_api-client-6443.toml] stopped[0m
+2024/05/20 14:53:01 [1;34m[I] [root.go:139] start frpc service for config file [toml/k8s_api-client-6443.toml][0m
+2024/05/20 14:53:01 [1;34m[I] [service.go:299] [e4efddf0f595de54] login to server success, get run id [e4efddf0f595de54][0m
+2024/05/20 14:53:01 [1;34m[I] [proxy_manager.go:156] [e4efddf0f595de54] proxy added: [k8s_api][0m
+2024/05/20 14:53:01 [1;34m[I] [control.go:173] [e4efddf0f595de54] [k8s_api] start proxy success[0m

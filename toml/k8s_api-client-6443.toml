@@ -1,0 +1,8 @@
+serverAddr = "melina"
+serverPort = 7006
+
+[[proxies]]
+name = "k8s_api"
+type = "http"
+localPort = 6443
+customDomains = ["melina"]
