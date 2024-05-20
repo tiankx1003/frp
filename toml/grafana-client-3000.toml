@@ -1,8 +1,8 @@
 serverAddr = "melina"
-serverPort = 7005
+serverPort = 7002
 
 [[proxies]]
-name = "dinky"
+name = "grafana"
 type = "http"
-localPort = 8888
+localPort = 3000
 customDomains = ["melina"]
