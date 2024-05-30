@@ -5,4 +5,4 @@ serverPort = 7005
 name = "dinky"
 type = "http"
 localPort = 8888
-customDomains = ["melina"]
+customDomains = ["melina","139.9.102.191"]

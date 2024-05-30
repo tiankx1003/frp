@@ -1,0 +1,55 @@
+2024/05/21 11:14:42 [1;34m[I] [root.go:139] start frpc service for config file [toml/dinky-client-8888.toml][0m
+2024/05/21 11:14:42 [1;34m[I] [service.go:299] [9222859c6978ec8e] login to server success, get run id [9222859c6978ec8e][0m
+2024/05/21 11:14:42 [1;34m[I] [proxy_manager.go:156] [9222859c6978ec8e] proxy added: [dinky][0m
+2024/05/21 11:14:42 [1;34m[I] [control.go:173] [9222859c6978ec8e] [dinky] start proxy success[0m
+nohup: ignoring input
+2024/05/22 10:28:35 [1;34m[I] [root.go:139] start frpc service for config file [toml/dinky-client-8888.toml][0m
+2024/05/22 10:28:35 [1;34m[I] [service.go:299] [1abc77df8a266e44] login to server success, get run id [1abc77df8a266e44][0m
+2024/05/22 10:28:35 [1;34m[I] [proxy_manager.go:156] [1abc77df8a266e44] proxy added: [dinky][0m
+2024/05/22 10:28:36 [1;34m[I] [control.go:173] [1abc77df8a266e44] [dinky] start proxy success[0m
+2024/05/22 16:36:48 [1;34m[I] [root.go:139] start frpc service for config file [toml/dinky-client-8888.toml][0m
+2024/05/22 16:36:49 [1;34m[I] [service.go:299] [8a44ab1c7120aac0] login to server success, get run id [8a44ab1c7120aac0][0m
+2024/05/22 16:36:49 [1;34m[I] [proxy_manager.go:156] [8a44ab1c7120aac0] proxy added: [dinky][0m
+2024/05/22 16:36:49 [1;34m[I] [control.go:173] [8a44ab1c7120aac0] [dinky] start proxy success[0m
+nohup: ignoring input
+2024/05/23 15:26:29 [1;34m[I] [root.go:139] start frpc service for config file [toml/dinky-client-8888.toml][0m
+2024/05/23 15:26:29 [1;34m[I] [service.go:299] [478100492e57cf7b] login to server success, get run id [478100492e57cf7b][0m
+2024/05/23 15:26:29 [1;34m[I] [proxy_manager.go:156] [478100492e57cf7b] proxy added: [dinky][0m
+2024/05/23 15:26:29 [1;34m[I] [control.go:173] [478100492e57cf7b] [dinky] start proxy success[0m
+2024/05/24 04:17:08 [1;34m[I] [control.go:253] [478100492e57cf7b] control writer is closing[0m
+2024/05/24 04:17:08 [1;34m[I] [visitor_manager.go:79] [478100492e57cf7b] gracefully shutdown visitor manager[0m
+2024/05/24 04:17:08 [1;34m[I] [service.go:212] [478100492e57cf7b] try to reconnect to server...[0m
+2024/05/24 04:17:14 [1;34m[I] [service.go:299] [478100492e57cf7b] login to server success, get run id [478100492e57cf7b][0m
+2024/05/24 04:17:14 [1;34m[I] [proxy_manager.go:156] [478100492e57cf7b] proxy added: [dinky][0m
+2024/05/24 04:17:14 [1;34m[I] [control.go:173] [478100492e57cf7b] [dinky] start proxy success[0m
+2024/05/26 04:18:03 [1;34m[I] [control.go:253] [478100492e57cf7b] control writer is closing[0m
+2024/05/26 04:18:03 [1;34m[I] [visitor_manager.go:79] [478100492e57cf7b] gracefully shutdown visitor manager[0m
+2024/05/26 04:18:03 [1;34m[I] [service.go:212] [478100492e57cf7b] try to reconnect to server...[0m
+2024/05/26 04:18:03 [1;34m[I] [service.go:299] [478100492e57cf7b] login to server success, get run id [478100492e57cf7b][0m
+2024/05/26 04:18:03 [1;34m[I] [proxy_manager.go:156] [478100492e57cf7b] proxy added: [dinky][0m
+2024/05/26 04:18:03 [1;34m[I] [control.go:173] [478100492e57cf7b] [dinky] start proxy success[0m
+nohup: ignoring input
+2024/05/29 19:49:21 [1;34m[I] [root.go:139] start frpc service for config file [toml/dinky-client-8888.toml][0m
+2024/05/29 19:49:21 [1;34m[I] [service.go:299] [d3caccf98b5ac0f3] login to server success, get run id [d3caccf98b5ac0f3][0m
+2024/05/29 19:49:21 [1;34m[I] [proxy_manager.go:156] [d3caccf98b5ac0f3] proxy added: [dinky][0m
+2024/05/29 19:49:21 [1;34m[I] [control.go:173] [d3caccf98b5ac0f3] [dinky] start proxy success[0m
+2024/05/29 19:49:30 [1;31m[E] [proxy.go:195] [d3caccf98b5ac0f3] [dinky] connect to local service [127.0.0.1:8888] error: dial tcp 127.0.0.1:8888: connect: connection refused[0m
+2024/05/29 19:49:30 [1;31m[E] [proxy.go:195] [d3caccf98b5ac0f3] [dinky] connect to local service [127.0.0.1:8888] error: dial tcp 127.0.0.1:8888: connect: connection refused[0m
+nohup: ignoring input
+2024/05/29 19:57:36 [1;34m[I] [root.go:139] start frpc service for config file [toml/dinky-client-8888.toml][0m
+2024/05/29 19:57:36 [1;34m[I] [service.go:299] [8eac9b0f1c09f753] login to server success, get run id [8eac9b0f1c09f753][0m
+2024/05/29 19:57:36 [1;34m[I] [proxy_manager.go:156] [8eac9b0f1c09f753] proxy added: [dinky][0m
+2024/05/29 19:57:36 [1;33m[W] [control.go:171] [8eac9b0f1c09f753] [dinky] start error: proxy [dinky] already exists[0m
+2024/05/29 19:58:06 [1;33m[W] [control.go:171] [8eac9b0f1c09f753] [dinky] start error: proxy [dinky] already exists[0m
+2024/05/30 04:18:36 [1;34m[I] [control.go:253] [d3caccf98b5ac0f3] control writer is closing[0m
+2024/05/30 04:18:36 [1;34m[I] [visitor_manager.go:79] [d3caccf98b5ac0f3] gracefully shutdown visitor manager[0m
+2024/05/30 04:18:37 [1;34m[I] [service.go:212] [d3caccf98b5ac0f3] try to reconnect to server...[0m
+2024/05/30 04:18:47 [1;33m[W] [service.go:215] [d3caccf98b5ac0f3] reconnect to server error: dial tcp 139.9.102.191:7005: i/o timeout, wait 1s for another retry[0m
+2024/05/30 04:18:48 [1;34m[I] [service.go:212] [d3caccf98b5ac0f3] try to reconnect to server...[0m
+2024/05/30 04:18:53 [1;34m[I] [service.go:299] [d3caccf98b5ac0f3] login to server success, get run id [d3caccf98b5ac0f3][0m
+2024/05/30 04:18:53 [1;34m[I] [proxy_manager.go:156] [d3caccf98b5ac0f3] proxy added: [dinky][0m
+2024/05/30 04:18:53 [1;34m[I] [control.go:173] [d3caccf98b5ac0f3] [dinky] start proxy success[0m
+2024/05/30 10:14:57 [1;34m[I] [root.go:139] start frpc service for config file [toml/dinky-client-8888.toml][0m
+2024/05/30 10:14:57 [1;34m[I] [service.go:299] [eca5ed88af6629ef] login to server success, get run id [eca5ed88af6629ef][0m
+2024/05/30 10:14:57 [1;34m[I] [proxy_manager.go:156] [eca5ed88af6629ef] proxy added: [dinky][0m
+2024/05/30 10:14:57 [1;34m[I] [control.go:173] [eca5ed88af6629ef] [dinky] start proxy success[0m

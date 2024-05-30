@@ -1,0 +1,8 @@
+serverAddr = "melina"
+serverPort = 7007
+
+[[proxies]]
+name = "dlink"
+type = "http"
+localPort = 7777
+customDomains = ["melina"]
