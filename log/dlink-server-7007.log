@@ -1,0 +1,4 @@
+2024/05/30 10:54:57 [1;34m[I] [root.go:105] frps uses config file: toml/dlink-server-7007.toml[0m
+2024/05/30 10:54:57 [1;34m[I] [service.go:225] frps tcp listen on 0.0.0.0:7007[0m
+2024/05/30 10:54:57 [1;34m[I] [service.go:292] http service listen on 0.0.0.0:7777[0m
+2024/05/30 10:54:57 [1;34m[I] [root.go:114] frps started successfully[0m
